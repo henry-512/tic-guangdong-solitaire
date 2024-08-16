@@ -1,0 +1,1 @@
+tic80.exe --skip --fs "." --cmd "load guangdong.tic & import code ./code.lua & save & run"
